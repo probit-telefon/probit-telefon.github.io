@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://твой-домен.github.io/sitemap-phonescan.xml
+Sitemap: https://probit-telefon.github.io/sitemap-phonescan.xml
